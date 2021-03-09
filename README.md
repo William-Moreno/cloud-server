@@ -13,7 +13,7 @@ Environment created from the AWS Control Panel (GUI)
   - [Gallery of Horns](http://galleryofhorns-env.eba-j2dr23gz.us-east-2.elasticbeanstalk.com/)
 
 Environment created from the Elastic Beanstalk CLI
-  - [Gallery of Horns](gallery-of-horns-2.eba-5jhsnxvn.us-west-2.elasticbeanstalk.com)
+  - [Gallery of Horns](http:/gallery-of-horns-2.eba-5jhsnxvn.us-west-2.elasticbeanstalk.com)
 
 
 ## Process
