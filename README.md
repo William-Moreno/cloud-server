@@ -31,7 +31,7 @@ CLI creation process accomplished from the Elastic Beanstalk CLI in the Ubuntu t
 - Navigate to repository directory
 - In terminal entered `eb init`
   - Selected location
-  - Named application
+  - Named application `gallery-of-horns-2`
   - Verified use of Node.js
   - Selected platform branch
   - Chose not to continue with CodeCommit
